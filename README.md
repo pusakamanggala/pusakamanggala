@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pusaka Manggala</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pusakamanggala&label=Profile%20views&color=00ffee&style=plastic" alt="pusakamanggala" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pusakamanggala&label=visitors&color=004cff&style=plastic" alt="pusakamanggala" /> </p>
 
 - 🌱 I’m currently learning **ReactJS, React Native,**
 
