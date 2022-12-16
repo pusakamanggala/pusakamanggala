@@ -20,4 +20,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pusakamanggala&show_icons=true&title_color=ff00ea&text_color=00ffeb&bg_color=243660&hide_border=false&locale=en&layout=compact" alt="pusakamanggala" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pusakamanggala&show_icons=true&theme=highcontrast&title_color=ff00ea&text_color=00ffee&bg_color=243660&hide_border=false&locale=en" alt="pusakamanggala" /></p>
