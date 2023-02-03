@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, html, css**
 
-- 📫 How to reach me **pusakamanggala@gmail.com** or **https://pusakamanggala.netlify.app/**
+- 📫 How to reach me **pusakamanggala@gmail.com** or **pusakamanggala.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
