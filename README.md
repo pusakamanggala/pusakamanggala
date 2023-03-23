@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pusakamanggala&label=visitors&color=004cff&style=plastic" alt="pusakamanggala" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, React Native,**
+- 🌱 I’m currently learning **ReactJS, its libraries and framworks**
 
 - 💬 Ask me about **React, html, css**
 
