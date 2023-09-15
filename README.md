@@ -25,9 +25,6 @@
     <div style="flex: 1;">
         <img src="https://github-readme-stats.vercel.app/api?username=pusakamanggala&show_icons=true&title_color=ff00ea&text_color=00ffeb&bg_color=243660&hide_border=false&locale=en&layout=compact" alt="pusakamanggala" />
     </div>
-    <div style="flex: 1;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pusakamanggala&theme=dark" alt="pusakamanggala" />
-    </div>
 </div>
 
 
