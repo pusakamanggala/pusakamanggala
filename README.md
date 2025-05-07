@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm  <a href="https://pusakamanggala.netlify.app">Pusaka Manggala</a></h1>
+<h1 align="center">Hi, I'm  <a href="https://pusakamanggala.vercel.app/">Pusaka Manggala</a></h1>
 <h3 align="center">A Front-End Web Developer</h3>
 <h3 align="center"><a href="https://wa.me/+6282126172854" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> <a/> <a href="mailto:pusakamanggala@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <a/> <a href="https://www.linkedin.com/in/pusakamanggala/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a/> </h3>
 
@@ -6,7 +6,7 @@
 
 - 🔭 Love to build a beautiful and fun websites.
 - 💬 Ask me about **React Front-End Development**
-- 👨‍💻 Visit me at [https://pusakamanggala.netlify.app/](https://pusakamanggala.netlify.app/)
+- 👨‍💻 Visit me at [https://pusakamanggala.vercel.app/](https://pusakamanggala.vercel.app/)
 
 <h2 align="left">I'm currently cooking with :</h2>
 <p align="left">
